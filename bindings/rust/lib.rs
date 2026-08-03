@@ -4,8 +4,7 @@
 //! tree-sitter [`Parser`], and then use the parser to parse some code:
 //!
 //! ```
-//! let code = r#"
-//! "#;
+//! let code = "1 + 2";
 //! let mut parser = tree_sitter::Parser::new();
 //! let language = tree_sitter_melbi::LANGUAGE;
 //! parser
