@@ -3,7 +3,7 @@
  * @author Nilton Volpato <nilton@volpa.to>
  * @license MIT
  *
- * IMPORTANT: Keep this grammar in sync with parser/expression.pest
+ * IMPORTANT: Keep this grammar in sync with parser/src/grammar/expression.pest
  * Changes to syntax must be reflected in both grammars.
  */
 
